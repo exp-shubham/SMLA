@@ -1,7 +1,0 @@
-INDEX VERSION 1.130
-C:\Users\Shubham\Documents\workspace-sts-3.9.4.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4258763744.index
-\SpringMVCExample\src\main\java
-C:\Users\Shubham\Documents\workspace-sts-3.9.4.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\392369025.index
-\TestSpringMVC\src\main\java
-C:\Users\Shubham\Documents\workspace-sts-3.9.4.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3999106932.index
-\SpringMVCTest\src\main\java
