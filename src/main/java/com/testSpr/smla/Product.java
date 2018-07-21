@@ -30,6 +30,15 @@ public class Product {
 	public void setProductCategory(String productCategory) {
 		this.productCategory = productCategory;
 	}
+	public Product(String productId, String productName, String productDesc, String productCategory) {
+		super();
+		this.productId = productId;
+		this.productName = productName;
+		this.productDesc = productDesc;
+		this.productCategory = productCategory;
+	}
+	
+	
 	
 	
 	
